@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ghi Chú</string>
+    <string name="share_label">Lưu vào Ghi Chú</string>
+    <string name="tile_label">Ghi chú nhanh</string>
+    <string name="widget_note">Ghi chú</string>
+    <string name="widget_note_description">Một ghi chú trên màn hình chính, tick checklist ngay tại chỗ</string>
+    <string name="widget_list">Danh sách ghi chú</string>
+    <string name="widget_list_description">Ghi chú đã ghim, theo nhãn hoặc mới sửa</string>
+    <string name="widget_quick">Ghi nhanh</string>
+    <string name="widget_quick_description">Tìm kiếm và tạo ghi chú, checklist, ghi bằng giọng nói, chụp ảnh</string>
+</resources>
